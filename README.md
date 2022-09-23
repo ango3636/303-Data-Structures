@@ -1,5 +1,5 @@
-#Assignment 1
-##Amy Ngo
+# Assignment 1
+## Amy Ngo
 ## anfgv@umsystem.edu
 
 ### 1. User enters the name of their file
