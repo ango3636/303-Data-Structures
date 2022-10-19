@@ -1,1 +1,3 @@
-# 303-Data-Structures
+# Assignment 2
+## Amy Ngo
+## anfgv@umsystem.edu
