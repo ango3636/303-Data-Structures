@@ -1,5 +1,5 @@
 # Assignment 3
-## Amy Ngo ### anfgv@umsystem.edu
+## Amy Ngo || anfgv@umsystem.edu
 
 #### 1. The user enters a word to check if is it or is not a palindrome.
 #### 2. The user is able to build a queue by enter integers into the list.
